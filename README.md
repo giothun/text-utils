@@ -142,7 +142,7 @@ impl Scraper for MyCustomScraper {
 }
 ```
 
-## Result for this file
+## Result for this README.md file
 ```
 📊 Text Insights 📊
 -----------------
@@ -163,6 +163,7 @@ impl Scraper for MyCustomScraper {
    • Perplexity: 29.79
    (Lower entropy/perplexity = more predictable text)
 ```
+![wordcloud](wordcloud_20250313010202.png)
 
 
 
