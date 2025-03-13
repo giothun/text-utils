@@ -165,7 +165,17 @@ impl Scraper for MyCustomScraper {
 ```
 ![wordcloud](wordcloud_20250313010202.png)
 
+## Lyrics example
 
+брошен вместо лязга
+
+я ставлю на шее петлю
+
+она знает мне страшно
+
+к нему несемся
+
+а ждать, да слышен стук зубов
 
 ## License
 
