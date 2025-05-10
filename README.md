@@ -1,6 +1,6 @@
 # Text-Gen-Ngram
 
-A Rust-based text generator that uses N-gram models to generate text from scraped or local data.
+A Rust-based text utils (text stats, scrapping, n-gram model).
 
 ## Features
 
