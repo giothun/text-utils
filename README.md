@@ -1,4 +1,4 @@
-# Text-Gen-Ngram
+# Text-utils
 
 A Rust-based text utils (text stats, scrapping, n-gram model).
 
